@@ -107,7 +107,7 @@ litellm==1.40.9
 lxml==5.2.2
 Markdown==3.6
 markdown-it-py==2.2.0
-markdownify==0.13.1
+markdownify==0.14.1
 MarkupSafe==2.1.5
 marshmallow==3.21.2
 matplotlib==3.9.0
