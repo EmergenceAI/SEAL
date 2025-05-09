@@ -227,7 +227,7 @@ threadpoolctl==3.5.0
 tiktoken==0.7.0
 tokenizers==0.19.1
 toolz==0.12.1
-torch==2.3.0
+torch==2.6.0
 torchvision==0.18.0
 tornado @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_3a5nrn2jeh/croot/tornado_1696936974091/work
 tqdm==4.66.4
